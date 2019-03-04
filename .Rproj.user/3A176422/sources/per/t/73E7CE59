@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551606720705.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "278475909",
+    "id" : "73E7CE59",
+    "lastKnownWriteTime" : 1551620291,
+    "last_content_update" : 1551620291686,
+    "path" : "~/Documents/Project/Kaggle/Talkingdata/EDA_TalkingData.R",
+    "project_path" : "EDA_TalkingData.R",
+    "properties" : {
+        "cursorPosition" : "149,34",
+        "scrollLine" : "141"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

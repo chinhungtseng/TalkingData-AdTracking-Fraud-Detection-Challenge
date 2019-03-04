@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551594437826.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1226745788",
+    "id" : "4BD9BE55",
+    "lastKnownWriteTime" : 1551594986,
+    "last_content_update" : 1551594986807,
+    "path" : "~/Documents/Project/Kaggle/Talkingdata/read_data_with_sparklyr.R",
+    "project_path" : "read_data_with_sparklyr.R",
+    "properties" : {
+        "cursorPosition" : "74,0",
+        "scrollLine" : "65"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
